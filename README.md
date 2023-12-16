@@ -1,8 +1,8 @@
 # Hello there 👋 
 
-### I'm Vatana Chhorn, 
+### I'm auhaij, 
 
-A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
+A Software Engineering. 👨🏻‍💻 
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
@@ -32,15 +32,6 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
 
-**Connect with me:**
-<p align="left">
-<a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://open.spotify.com/user/onlyvatana23?si=-McUZw0zTj-a8SvbVe1qZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-   <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
 
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
