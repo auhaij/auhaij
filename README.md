@@ -1,50 +1,29 @@
-# Hello there 👋 
+<!-- 在 README.md 文件中添加以下内容 -->
 
-### I'm auhaij, 
+<!-- 添加一个顶部的标题 -->
+# Hi there, I'm Your Name! 👋
 
-A Software Engineering. 👨🏻‍💻 
+<!-- 添加一些个人信息 -->
+- 🌱 I’m currently learning and growing in the field of ...
+- 🚀 I’m looking to collaborate on open source projects
+- 💬 Ask me about anything related to ...
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
+<!-- 添加 GitHub 统计卡片 -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=issues,prs&count_private=true&theme=radical)
 
-### 💼  Things that I'm currently working on: 
-* Doing bachelor's degree in Software Engineering
-* Taking a Swift Online Course in Udemy, and looking forward to contribute to any iOS open source project. 
-* Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
-* Inquiring more about UX/UI.  
-* Looking forward to take a Web Development Courses in future besides school curriculum. 
-* 🔜
+<!-- 添加最近活动卡片 -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repository&show_owner=true)
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+<!-- 添加联系方式 -->
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile/)
+<!-- 添加其他社交媒体图标 -->
 
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
-* Read a book a week
-* Workout 3 days in a row and take a day break 
-* Avoid the over using social media
-* Adapting the minimalism life style
-* 🔜
+<!-- 添加项目展示 -->
+### Featured Projects
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&show_owner=true)](https://github.com/your-username/project-1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&show_owner=true)](https://github.com/your-username/project-2)
 
- 
- **Languages and Frameworks:**
-<p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
-   </p>
-
-
-
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
-
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
-
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
-
----
-
-### Credit to 
--  Mandragora Estudio **for GIF**. 
-
-https://dribbble.com/shots/9344637-working-hard
-
-⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
+<!-- 添加访客计数 -->
+![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
